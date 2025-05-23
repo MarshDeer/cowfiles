@@ -1,0 +1,20 @@
+# Pretty deer
+# ASCII art by Joan G. Stark (jgs)
+# cowfile by lensdeer
+$the_cow = <<EOC;
+  $thoughts            .     _,
+   $thoughts           |`\\__/ /
+    $thoughts          \\  $eyes (
+                | __T|
+               /   |$tongue
+  _.---======='    |
+ //               {}
+`|      ,   ,     {}
+ \\      /___;    ,'
+  ) ,-;`    `\\  //
+ | / (        ;||
+ ||`\\\\        |||
+ ||  \\\\       |||
+ )\\   )\\      )||
+ `"   `"      `""
+EOC
