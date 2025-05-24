@@ -2,7 +2,6 @@
 # .cow file by lensdeer
 $the_cow = <<EOC;
   $thoughts
-   $thoughts
      (             )
       `--(_   _)--'
            Y-Y
